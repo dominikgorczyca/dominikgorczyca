@@ -2,6 +2,8 @@
 
 #### 🔭 I’m currently working on [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
 
+
+fdfdsfdfs
 <!--
 **dominikgorczyca/dominikgorczyca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
