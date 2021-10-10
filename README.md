@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  I am a high-school student learning Web Development. Despite low experience I have motivation to learn, meet people and find a job! Right now I am trying to finish <a href="https://scrimba.com/learn/frontend">Scrimba Course</a> while also doing a lot of projects that will make me ready to become Professional Web Developer.
+  I am a high-school student learning Web Development. Despite low experience I have motivation to learn, meet people and find a job!
 </p>  
 
 <h2 align="center">Technology</h2>
