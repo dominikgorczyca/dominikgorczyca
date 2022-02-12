@@ -3,7 +3,7 @@
 <p align="center">
  <img src="https://badges.pufler.dev/visits/dominikgorczyca/dominikgorczyca?color=blue&style=for-the-badge">
  <img src="https://badges.pufler.dev/repos/dominikgorczyca?color=blue&style=for-the-badge"/>
- <img src="https://badges.pufler.dev/commits/weekly/dominikgorczyca"/>
+ <img src="https://badges.pufler.dev/commits/monthly/dominikgorczyca?color=blue&style=for-the-badge"/>
  
 <!--  <img src="https://badges.pufler.dev/years/dominikgorczyca?color=blue&style=for-the-badge" /> -->
 </p>
@@ -20,6 +20,9 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=507E9C"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   
 </p>
