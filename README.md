@@ -3,7 +3,7 @@
 <p align="center">
  <img src="https://badges.pufler.dev/visits/dominikgorczyca/dominikgorczyca?color=blue&style=for-the-badge">
  <img src="https://badges.pufler.dev/repos/dominikgorczyca?color=blue&style=for-the-badge"/>
- <img src="https://badges.pufler.dev/commits/weekly/dominikgorczyca?color=blue&style=for-the-badge"/>
+ <img src="https://badges.pufler.dev/commits/monthly/dominikgorczyca?color=blue&style=for-the-badge"/>
  
 <!--  <img src="https://badges.pufler.dev/years/dominikgorczyca?color=blue&style=for-the-badge" /> -->
 </p>
