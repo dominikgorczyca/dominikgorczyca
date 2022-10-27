@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  I am a high-school student learning Web Development. Despite low experience I have motivation to learn, meet people and find a job!
+  Learning
 </p>  
 
 <h2 align="center">Technology</h2>
