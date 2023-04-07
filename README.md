@@ -1,17 +1,17 @@
-![Greetings Image](https://i.imgur.com/kR5XprB.png)
+<!-- ![Greetings Image](https://i.imgur.com/kR5XprB.png)
 
-<p align="center">
+ <p align="center">
  <img src="https://badges.pufler.dev/visits/dominikgorczyca/dominikgorczyca?color=blue&style=for-the-badge">
  <img src="https://badges.pufler.dev/repos/dominikgorczyca?color=blue&style=for-the-badge"/>
  <img src="https://badges.pufler.dev/commits/yearly/dominikgorczyca?color=blue&style=for-the-badge"/>
  
-<!--  <img src="https://badges.pufler.dev/years/dominikgorczyca?color=blue&style=for-the-badge" /> -->
+  <img src="https://badges.pufler.dev/years/dominikgorczyca?color=blue&style=for-the-badge" /> 
 </p>
 
 
 <p align="center">
   Learning
-</p>  
+</p> -->
 
 <h2 align="center">Technology</h2>
 
@@ -23,7 +23,6 @@
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=507E9C"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   
 </p>
 
