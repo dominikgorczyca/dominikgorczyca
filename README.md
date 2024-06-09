@@ -4,7 +4,7 @@
   I am a passionate Full Stack Developer with a strong background in building dynamic and responsive web applications. My expertise lies in front-end and back-end development, and I enjoy working with the latest technologies to create innovative solutions.
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dominikgorczyca" target="_blank">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/dominik-gorczyca/" target="_blank">LinkedIn</a> |
   <a href="https://dominikgorczyca.github.io" target="_blank">Portfolio</a>
 </p>
 
